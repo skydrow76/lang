@@ -1,11 +1,11 @@
 # Programming Language
 
-* Nim
-* Go
-* Dart
-* Elixir
-* Elm
-* Python
+* [Nim](#nim)
+* [Go](#go)
+* [Dart](#dart)
+* [Elixir](#elixir)
+* [Elm](#elm)
+* [Python](#python)
 
 # Nim
 
