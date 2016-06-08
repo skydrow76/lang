@@ -9,7 +9,7 @@
 
 # Nim
 
-## Ressources to learn nim
+#### Ressources to learn nim
 
 * [Manual](http://nim-lang.org/docs/manual.html)
 * [Standard library](http://nim-lang.org/docs/lib.html)
